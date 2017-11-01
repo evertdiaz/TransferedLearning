@@ -1,5 +1,6 @@
 #Uso de Inception V3 para Transfered Learning
 
+Dataset de DBZ: https://drive.google.com/file/d/0B4VlXJBwLtTHRTZSWTR1eFFvSDA/view?usp=sharing
 
 ================
 Ejecucion de Inception en Contenedor
